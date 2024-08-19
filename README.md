@@ -76,3 +76,9 @@ limu paper reading repo: https://github.com/mli/paper-reading
 ## 3.2. Structure Prediction
 ## 3.3. Proteomics 
 ## 3.4. Design and et al.  
+
+
+# 4. Miscellaneous
+## 4.1. Good informative talks
+- [Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI](https://www.youtube.com/watch?v=3gb-ZkVRemQ)：讲叙一些基本原理和思考，强烈建议
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher), 他的文章讲解方式是非常好的，值得学习。例如 [transformer](https://www.youtube.com/watch?v=iDulhoQ2pro), [Sparse Expert Models](https://www.youtube.com/watch?v=ccBMRryxGog&list=LL&index=21), [switch transformer](https://www.youtube.com/watch?v=ccBMRryxGog&list=LL&index=21) and etc. 
