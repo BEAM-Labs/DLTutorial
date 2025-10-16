@@ -1,8 +1,9 @@
 # DLTutorial
 新学生深度学习入门，可以按照顺序和需求自行安排、调节进度。
 
-# 1. 基础入门功课、tutorial等
-## 1.1. Andrew Ng 的 Deep Learning Specialization及课后作业
+# 1. 入门功课、tutorial等
+## A 基础篇
+## A.1. Andrew Ng 的 Deep Learning Specialization及课后作业
 视频地址： https://www.bilibili.com/video/BV1pJ41127Q2  
 HW: https://github.com/ppx-hub/deep-learning-specialization-all-homework/tree/main/Homework-NoAnswer  
 HW solution: https://github.com/amanchadha/coursera-deep-learning-specialization 
@@ -29,17 +30,35 @@ HW solution: https://github.com/amanchadha/coursera-deep-learning-specialization
   - video: transformer network部分我在b站没有找到视频，有找到的同学可以补充，youtube视频可以参考这里：https://www.youtube.com/watch?v=S7oA5C43Rbc&t=18037s， 时间大概从5小时左右开始
   - topics covered: GRU, LSTM, word2vec, glove, beam search, attention model, transformer and etc
  
-## 1.2. 李宏毅机器学习
+## A.2. 李宏毅机器学习
 - B站2023年课程链接：https://www.bilibili.com/video/BV1TD4y137mP
 - B站2024年课程链接（主要为生成式AI，如GPT和Diffusion）：https://www.bilibili.com/video/BV1BJ4m1e7g8
 - 2023年课程网页：https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 - 2024年课程网页：https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php
 - 最大优点是课程网页上有代码作业，课程上难度偏简单，主要以讲解概念为主。
 
-## 1.3. 动手学强化学习
+## A.3. 动手学强化学习
 - 课程连接：https://hrl.boyuai.com/chapter/intro/
 - 视频连接：https://www.boyuai.com/elites/course/xVqhU42F5IDky94x
 - 风格与《动手学深度学习》类似，但不是李沐团队的课程。上交老师出品，内容还是不错的。
+
+
+
+## B. 深入篇 :
+## B.1. UCB cs182: Designing, Visualizing and Understanding Deep Neural Networks
+
+- UCBerkely: https://cs182sp21.github.io
+- 课程作业官网+github
+- 视频b站历年
+
+ ## B.2. UCB cs285: Deep Reinforcement Learning
+
+- UCBerkely: [https://cs182sp21.github.io](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- 课程作业官网+github
+- 视频b站历年
+
+
+
 
 # 2. 经典入门文章，所有研究方向必读
 ## 2.1. transformer 架构细节学习
