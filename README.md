@@ -57,6 +57,11 @@ HW solution: https://github.com/amanchadha/coursera-deep-learning-specialization
 - 课程作业官网+github
 - 视频b站历年
 
+## B.3. Stanford CS-324: Large Language Models
+- Stanford: https://stanford-cs324.github.io/winter2022/
+- 课程作业官网+github
+- 视频b站历年
+
 
 
 
