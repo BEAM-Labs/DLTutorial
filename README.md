@@ -53,7 +53,7 @@ HW solution: https://github.com/amanchadha/coursera-deep-learning-specialization
 
  ## B.2. UCB cs285: Deep Reinforcement Learning
 
-- UCBerkely: [https://cs182sp21.github.io](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- UCBerkely: https://rail.eecs.berkeley.edu/deeprlcourse/
 - 课程作业官网+github
 - 视频b站历年
 
